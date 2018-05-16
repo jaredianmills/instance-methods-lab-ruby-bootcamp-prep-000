@@ -4,6 +4,6 @@ class Dog
   end
 
   def sits
-    puts "The dog is sitting"
+    puts "The Dog is sitting"
   end
 end
